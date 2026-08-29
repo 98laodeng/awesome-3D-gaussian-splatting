@@ -183,6 +183,10 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 - [Intro to gaussian splatting (and Unity plugin)](https://www.xuanprada.com/blog/2023/10/22/intro-to-gaussian-splatting)
 - [Jupyter Tutorial](https://www.youtube.com/watch?v=OcvA7fmiZYM)
 
+### YouTube Channels
+
+- [LichtFeld Studio](https://www.youtube.com/@LichtFeldStudio) - Tutorials, release walkthroughs and dev updates for [LichtFeld Studio](https://github.com/MrNeRF/LichtFeld-Studio)
+
 ## Credits
 
 - Thanks to [Leonid Keselman](https://github.com/leonidk) for informing me about the release of the paper "Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting".
